@@ -1,0 +1,8 @@
+cv = {
+  "Mehmet": "Pyhton, c++, c#",
+  "Aslı": "pyhton, js, html",
+  "Melih": "1, 2, 3, 4",
+  "Nehir": "1,2,3,4,8,9",
+  "Ilgın":" Pyhton, c++, 4, 5, 6",
+}
+print(cv)
